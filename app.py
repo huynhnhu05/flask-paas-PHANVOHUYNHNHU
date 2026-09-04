@@ -33,7 +33,7 @@ def home():
     </head>
 
     <body>
-        <h1>Ứng dụng Flask trên PaaS</h1>
+        <h1>Ứng dụng Flask trên PaaS - phiên bản 2</h1>
 
         <div class="box">
             <p><b>Sinh viên:</b>PHAN VO HUYNH NHU - 233404050199</p>
