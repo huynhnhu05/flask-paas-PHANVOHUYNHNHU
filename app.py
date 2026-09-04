@@ -32,7 +32,7 @@ def home():
         <h1>Ứng dụng Flask trên PaaS - phiên bản 2</h1>
 
         <div class="box">
-            <p><b>Sinh viên:</b>PHAN VO HUYNH NHU - 233404050199</p>
+            <p><b>Sinh viên:</b>NGUYEN NGOC HOANG SANG - 233404050204</p>
             <p><b>Môn học:</b> Điện toán Đám mây</p>
             <p><b>Mô hình:</b> PaaS - Platform as a Service</p>
             <p><b>Python:</b> {platform.python_version()}</p>
